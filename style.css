@@ -1,3 +1,5 @@
+/* Pre-given CSS styling, don't alter only add*/
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -71,16 +73,4 @@ textarea{
 }
 
 
-.list-item {
-width: 100%;
-}
-
-.list-item #text {
-  float: left;
-}
-
-
-
-/*.time-text {
-  float: left;
-}
+/* Add media queries - search three most common sizes for smaller screens 
