@@ -4,6 +4,9 @@
 This website was built for the 5th challenge sequence in the U of A bootcamp 2021-22.
 Tool used were HTML, Pre-set CSS style sheets, starter code from github, JS, Jquery, Bootstrap framework, moment js, and google fonts.
 
+## Aids/Resources
+Bootstrap docs, MDN docs, module 3-4 apps, Github, Jquery docs, and youtube.
+
 ## Link:
 https://hibram007.github.io/work-scheduler2/
 
